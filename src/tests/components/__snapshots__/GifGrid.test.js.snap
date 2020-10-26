@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas Unitarias de <GifGrid /> Debe crear el snapshot del componente 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeInLeftBig"
+  >
+    Goku
+  </h3>
+  <p
+    className="animate__animated animate__flash"
+  >
+    Loading
+  </p>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;

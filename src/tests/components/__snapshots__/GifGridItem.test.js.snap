@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas Unitarias de <GifGridItem /> Debe hacer matchSnapshot del componente 1`] = `
+<div
+  className="card animate__animated animate__fadeInUpBig"
+>
+  <img
+    alt="Esto es titulo de la imagen"
+    src="http://pruebas.testing.com"
+  />
+  <p>
+    Esto es titulo de la imagen
+  </p>
+</div>
+`;

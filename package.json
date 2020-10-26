@@ -1,6 +1,6 @@
 {
   "name": "gif-expert-app",
-  "description": "React aplication to consumer gif service in giphy",
+  "description": "React aplication to consumer gif service in giphy.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

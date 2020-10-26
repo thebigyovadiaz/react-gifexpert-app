@@ -1,6 +1,6 @@
 {
   "name": "gif-expert-app",
-  "description": "React App que consume un servicio que muestra los gifs",
+  "description": "React App que consume un servicio que muestra los gifs.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
